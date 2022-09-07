@@ -1,0 +1,1 @@
+# Kogane.ErrorProne.NET.CoreAnalyzers
